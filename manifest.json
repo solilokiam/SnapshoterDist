@@ -1,8 +1,8 @@
 [
     {
         "name": "snapshoter.phar",
-        "sha1": "84e7a7909a8e068874906f5ef8794d5eff3f4699",
-        "url": "http://solilokiam.github.io/SnapshoterDist/downloads/Snapshoter-0.1.3.phar",
-        "version": "0.1.3"
+        "sha1": "5e64023dfb26a10a294426d47ba6b6ddd0277d78",
+        "url": "http://solilokiam.github.io/SnapshoterDist/downloads/Snapshoter-0.1.4.phar",
+        "version": "0.1.4"
     }
 ]
